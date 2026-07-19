@@ -1,0 +1,7 @@
+# Sistema operativo / temporales
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+.~lock.*#
+~$*
