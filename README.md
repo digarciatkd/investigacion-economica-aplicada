@@ -7,33 +7,33 @@ Mi experiencia viene del **Banco de la República** y de un proyecto **BID / Uni
 
 ## Qué hago
 
-- **Construyo pipelines de datos.** Integro fuentes heterogéneas, con distintos identificadores, periodicidades y niveles de calidad, en bases analíticas confiables y auditables.
-- **Construyo visualizaciones para tomar decisiones.** Traduzco datos complejos en visualizaciones que entienden audiencias no técnicas.
-- **Mido impacto, no solo describo.** Aplico métodos de inferencia causal para responder *"¿esto funcionó?"* con rigor; el equivalente metodológico a un test A/B cuando no es posible experimentar.
+- **Construyo pipelines de datos:** Integro fuentes heterogéneas, con distintos identificadores, periodicidades y niveles de calidad, en bases analíticas confiables y auditables.
+- **Construyo visualizaciones para tomar decisiones:** Traduzco datos complejos en visualizaciones que entienden audiencias no técnicas.
+- **Mido impacto, no solo describo:** Aplico métodos de inferencia causal para responder *"¿esto funcionó?"* con rigor; el equivalente metodológico a un test A/B cuando no es posible experimentar.
 
 ---
 
 ## Datos financieros a escala nacional · Banco de la República
 *Práctica profesional · ene.–dic. 2025*
 
-**El contexto.** Investigaciones sobre el efecto de reformas regulatorias en el mercado de crédito colombiano, con bases de cobertura nacional.
+**El contexto:** Investigaciones sobre el efecto de reformas regulatorias en el mercado de crédito colombiano, con bases de cobertura nacional.
 
 **Qué hice.**
-- **Integración y limpieza (ETL) de fuentes administrativas complejas** — bases empresariales y crediticias colombianas (**RUES**, **Supersociedades**, **Formato 345**) y microdatos de crédito, con identificadores y periodicidades distintas. *Impacto:* una base analítica única, consistente y auditable a partir de fuentes que no conversaban entre sí.
-- **Control de calidad y validación de datos** en cada etapa del proceso. *Impacto:* resultados defendibles ante revisión técnica.
+- **Integración y limpieza (ETL) de fuentes administrativas complejas** — bases empresariales y crediticias colombianas (**RUES**, **Supersociedades**, **Formato 345**) y microdatos de crédito, con identificadores y periodicidades distintas. *Impacto:* Una base analítica única, consistente y auditable a partir de fuentes que no conversaban entre sí.
+- **Control de calidad y validación de datos** en cada etapa del proceso. *Impacto:* Resultados defendibles ante revisión técnica.
 - **Automatización y control de versiones (Git)** de rutinas de procesamiento. *Impacto:* reproducibilidad total y soporte simultáneo a varios proyectos sin perder trazabilidad.
-- **Medición de impacto con métodos cuasi-experimentales** para aislar el efecto real de un cambio regulatorio de las tendencias generales del mercado. *Impacto:* conclusiones causales, no correlaciones.
+- **Medición de impacto con métodos cuasi-experimentales** para aislar el efecto real de un cambio regulatorio de las tendencias generales del mercado. *Impacto:* Conclusiones causales, no correlaciones.
 - **Visualización de resultados (Python)** — gráficas y tablas para documentos técnicos.
 
 ## Tablero interinstitucional del mercado laboral
 
-**El reto.** Cinco instituciones con intereses distintos: Banca central, academia, gremios y cajas de compensación, necesitaban una fuente común de indicadores del mercado laboral de Antioquia, con validez institucional, para tomar decisiones informadas.
+**El reto:** Cinco instituciones con intereses distintos: Banca central, academia, gremios y cajas de compensación, necesitaban una fuente común de indicadores del mercado laboral de Antioquia, con validez institucional, para tomar decisiones informadas.
 
-**Los stakeholders.** Banco de la República · Universidad de Antioquia · Cámara de Comercio del Aburrá Sur · Comfama · Comfenalco Antioquia.
+**Los stakeholders:** Banco de la República · Universidad de Antioquia · Cámara de Comercio del Aburrá Sur · Comfama · Comfenalco Antioquia.
 
-**Qué hice.** Apoyé el desarrollo de la **sección PILA** del tablero en **Power BI (DAX)**: transformé microdatos de seguridad social en indicadores de cotizantes y salarios formales con enfoque de género (brecha salarial, ratio mujeres/hombres), segmentables por subregión, edad y tipo de cotizante.
+**Qué hice:** Apoyé el desarrollo de la **sección PILA** del tablero en **Power BI (DAX)**: transformé microdatos de seguridad social en indicadores de cotizantes y salarios formales con enfoque de género (brecha salarial, ratio mujeres/hombres), segmentables por subregión, edad y tipo de cotizante.
 
-**El resultado.** Un producto de consulta pública que convierte datos administrativos crudos en insumos accionables para decisiones de política regional.
+**El resultado:** Un producto de consulta pública que convierte datos administrativos crudos en insumos accionables para decisiones de política regional.
 
 → **[Ver el tablero en vivo](https://app.powerbi.com/view?r=eyJrIjoiZjlmN2IyZDEtYjg5NC00ZTY1LWI0MzEtZmEwZDM2NzA4ZWMzIiwidCI6IjJmZjI1NWUxLWFlMDAtNDRiYy05Nzg3LWZhOGY4MDYxYmY2OCIsImMiOjR9)**
 
