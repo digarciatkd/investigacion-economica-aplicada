@@ -21,7 +21,6 @@ Mi experiencia viene del **Banco de la República** y de un proyecto **BID / Uni
 **Qué hice.**
 - **Integración y limpieza (ETL) de fuentes administrativas complejas** — bases empresariales y crediticias colombianas (**RUES**, **Supersociedades**, **Formato 345**) y microdatos de crédito, con identificadores y periodicidades distintas. *Impacto:* Una base analítica única, consistente y auditable a partir de fuentes que no conversaban entre sí.
 - **Control de calidad y validación de datos** en cada etapa del proceso. *Impacto:* Resultados defendibles ante revisión técnica.
-- **Automatización y control de versiones (Git)** de rutinas de procesamiento. *Impacto:* reproducibilidad total y soporte simultáneo a varios proyectos sin perder trazabilidad.
 - **Medición de impacto con métodos cuasi-experimentales** para aislar el efecto real de un cambio regulatorio de las tendencias generales del mercado. *Impacto:* Conclusiones causales, no correlaciones.
 - **Visualización de resultados (Python)** — gráficas y tablas para documentos técnicos.
 
