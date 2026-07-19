@@ -1,76 +1,87 @@
-# Investigación económica aplicada — perfil de trabajo
+# Datos, evidencia y decisiones — perfil de trabajo
 
-Descripción de mi trabajo como asistente de investigación cuantitativa en el **Banco de la República** y en un proyecto **BID / Universidad EAFIT**: qué tipo de problemas abordo, con qué herramientas, cómo las uso y para qué.
+**Analista de datos · Economista cuantitativa.** Convierto grandes volúmenes de datos administrativos y financieros en información que sustenta decisiones: Construyo pipelines, tableros y análisis de impacto.
+
+Mi experiencia viene del **Banco de la República** y de un proyecto **BID / Universidad EAFIT**, trabajando con bases de cobertura nacional, en entornos donde la calidad del dato y la reproducibilidad no son opcionales.
+---
+
+## Qué hago
+
+- **Construyo pipelines de datos.** Integro fuentes heterogéneas, con distintos identificadores, periodicidades y niveles de calidad, en bases analíticas confiables y auditables.
+- **Construyo visualizaciones para tomar decisiones.** Traduzco datos complejos en visualizaciones que entienden audiencias no técnicas.
+- **Mido impacto, no solo describo.** Aplico métodos de inferencia causal para responder *"¿esto funcionó?"* con rigor; el equivalente metodológico a un test A/B cuando no es posible experimentar.
 
 ---
 
-## Banco de la República
-*Práctica profesional · ene.–dic. 2025 · Medellín*
+## Datos financieros a escala nacional · Banco de la República
+*Práctica profesional · ene.–dic. 2025*
 
-Apoyé a economistas del Banco en investigaciones sobre **efectos causales de política pública en el sector financiero colombiano**, trabajando con microdatos financieros de cobertura nacional.
+**El contexto.** Investigaciones sobre el efecto de reformas regulatorias en el mercado de crédito colombiano, con bases de cobertura nacional.
 
-### Qué hice y cómo
+**Qué hice.**
+- **Integración y limpieza (ETL) de fuentes administrativas complejas** — bases empresariales y crediticias colombianas (**RUES**, **Supersociedades**, **Formato 345**) y microdatos de crédito, con identificadores y periodicidades distintas. *Impacto:* una base analítica única, consistente y auditable a partir de fuentes que no conversaban entre sí.
+- **Control de calidad y validación de datos** en cada etapa del proceso. *Impacto:* resultados defendibles ante revisión técnica.
+- **Automatización y control de versiones (Git)** de rutinas de procesamiento. *Impacto:* reproducibilidad total y soporte simultáneo a varios proyectos sin perder trazabilidad.
+- **Medición de impacto con métodos cuasi-experimentales** para aislar el efecto real de un cambio regulatorio de las tendencias generales del mercado. *Impacto:* conclusiones causales, no correlaciones.
+- **Visualización de resultados (Python)** — gráficas y tablas para documentos técnicos.
 
-- **Procesamiento de microdatos financieros a gran escala (Stata).** Depuración, integración y construcción de variables sobre bases de datos empresariales y crediticias colombianas —**RUES**, **Supersociedades**, **Formato 345 (F345)**— y microdatos de crédito. *Para qué:* consolidar fuentes heterogéneas en bases analíticas confiables y auditables.
-- **Estimación con métodos de identificación causal.** Apoyo en la implementación de diseños cuasi-experimentales (**regresión discontinua, diferencias en diferencias, estudios de eventos**) para aislar el efecto de reformas regulatorias de las tendencias generales del mercado. *Para qué:* producir evidencia con interpretación causal, no correlacional.
-- **Visualización de resultados (Python).** Elaboración de gráficas y tablas de resultados para los documentos de investigación. *Para qué:* comunicar hallazgos técnicos de forma clara y publicable.
+## Tablero interinstitucional del mercado laboral
+
+**El reto.** Cinco instituciones con intereses distintos: Banca central, academia, gremios y cajas de compensación, necesitaban una fuente común de indicadores del mercado laboral de Antioquia, con validez institucional, para tomar decisiones informadas.
+
+**Los stakeholders.** Banco de la República · Universidad de Antioquia · Cámara de Comercio del Aburrá Sur · Comfama · Comfenalco Antioquia.
+
+**Qué hice.** Apoyé el desarrollo de la **sección PILA** del tablero en **Power BI (DAX)**: transformé microdatos de seguridad social en indicadores de cotizantes y salarios formales con enfoque de género (brecha salarial, ratio mujeres/hombres), segmentables por subregión, edad y tipo de cotizante.
+
+**El resultado.** Un producto de consulta pública que convierte datos administrativos crudos en insumos accionables para decisiones de política regional.
+
+→ **[Ver el tablero en vivo](https://app.powerbi.com/view?r=eyJrIjoiZjlmN2IyZDEtYjg5NC00ZTY1LWI0MzEtZmEwZDM2NzA4ZWMzIiwidCI6IjJmZjI1NWUxLWFlMDAtNDRiYy05Nzg3LWZhOGY4MDYxYmY2OCIsImMiOjR9)**
 
 ---
 
-## Mesa de trabajo interinstitucional — Mercado laboral de Antioquia
 
-**El objetivo.** Articular una **mesa de trabajo interdisciplinaria** entre academia, gremios, cajas de compensación y banca central, para producir insumos con **validez institucional** que apoyen decisiones informadas sobre el mercado laboral regional.
+## Análisis de brechas de género en crédito empresarial · BID / EAFIT
+*Asistente de investigación cuantitativa · mar. 2026 – presente*
 
-**Los actores.** Banco de la República · Universidad de Antioquia · Cámara de Comercio del Aburrá Sur · Comfama · Comfenalco Antioquia.
-
-**Mi aporte.** Apoyo en el desarrollo de la **sección PILA** del tablero en **Power BI (DAX)**: cotizantes y salarios formales con enfoque de género (brecha salarial, ratio mujeres/hombres), desagregados por subregión, edad y tipo de cotizante. *Para qué:* convertir microdatos de seguridad social en visualizaciones comprensibles para audiencias no técnicas y tomadores de decisiones.
-
-**Resultado público** → **[Tablero Centro de Estudios de Mercado Laboral de Antioquia](https://app.powerbi.com/view?r=eyJrIjoiZjlmN2IyZDEtYjg5NC00ZTY1LWI0MzEtZmEwZDM2NzA4ZWMzIiwidCI6IjJmZjI1NWUxLWFlMDAtNDRiYy05Nzg3LWZhOGY4MDYxYmY2OCIsImMiOjR9)**
-
----
-
-## BID / EAFIT · Brechas de género en el crédito empresarial
-*Asistente de investigación cuantitativa · mar. 2026 – presente · Medellín*
-
-Proyecto en alianza con el **BID** y la **Banca de las Oportunidades** sobre brechas de género en el acceso al crédito empresarial.
-
-**Mi aporte.** Ingesta, depuración y estructuración de bases financieras con **Python** y **SQL**, y apoyo al análisis empírico. *Para qué:* asegurar calidad e integridad de los datos y generar evidencia que alimente recomendaciones de política.
+Proyecto con el **BID** y la **Banca de las Oportunidades**. Realizo la ingesta, depuración y estructuración de bases financieras con **Python** y **SQL**, y apoyo el análisis empírico que alimenta recomendaciones de política.
 
 ---
 
 ## Stack técnico
-`Stata` · `Python (pandas, statsmodels)` · `SQL` · `Git` · `Power BI (DAX)` · `Excel Avanzado` · `Latex` · `R-Studio`
 
-## Métodos
+**Lenguajes y herramientas**
+`Python (pandas, statsmodels)` · `SQL` · `Stata` · `R` · `Power BI (DAX)` · `Git` · `Excel avanzado` · `LaTeX`
 
-### Identificación causal y evaluación de impacto
-- **Regresión discontinua (RDD)** — explotación de umbrales institucionales para identificar efectos causales locales alrededor del punto de corte.
-- **Diferencias en diferencias (DiD)** — comparación de grupos tratados y de control, antes y después de una intervención, controlando por diferencias fijas y tendencias comunes.
-- **Estudios de eventos** — estimación de la trayectoria del efecto a lo largo del tiempo alrededor de un cambio de política.
-- **Diseños cuasi-experimentales** — aprovechamiento de experimentos naturales y cambios regulatorios exógenos.
-- **Validación del diseño** — verificación de tendencias paralelas, pruebas de placebo y análisis de sensibilidad.
+**Competencias de datos**
+ETL e integración de fuentes · calidad y validación de datos · construcción de bases panel · automatización de procesos · análisis exploratorio (EDA) · visualización y storytelling con datos · KPIs e indicadores · comunicación a audiencias no técnicas.
 
-### Econometría aplicada
-- **Datos de panel** — modelos de efectos fijos y aleatorios sobre estructuras longitudinales.
-- **Microeconometría** — modelación con datos individuales, de firmas y de hogares.
-- **Econometría espacial y análisis geoespacial** — tratamiento de datos georreferenciados y dependencia espacial.
-- **Series de tiempo** — análisis de dinámicas temporales y estacionalidad.
-- **Inferencia robusta** — errores estándar agrupados (*clustered*) y robustos a heterocedasticidad.
+---
 
-### Manejo y modelado de datos
-- **Construcción de paneles** a partir de microdatos crudos de gran volumen.
-- **Integración y cruce de fuentes heterogéneas** con distintos identificadores y periodicidades.
-- **Depuración, validación y control de calidad** de bases administrativas y financieras.
-- **Análisis exploratorio (EDA)** y estadística descriptiva.
-- **Visualización y comunicación** de resultados para audiencias técnicas y no técnicas.
+## Métodos analíticos
 
-**Fuentes de datos con las que he trabajado:** microdatos de crédito · RUES · Supersociedades · Formato 345 · PILA · datos satelitales (IDEAM, NASA POWER).
+### Medición de impacto (inferencia causal)
+Responder con rigor si una intervención, política o cambio produjo un efecto real:
+- **Regresión discontinua (RDD)** — aprovecha umbrales de elegibilidad para comparar casos casi idénticos a ambos lados del corte.
+- **Diferencias en diferencias (DiD)** — compara grupos tratados y de control, antes y después, aislando tendencias comunes.
+- **Estudios de eventos** — traza cómo evoluciona el efecto en el tiempo alrededor de un cambio.
+- **Diseños cuasi-experimentales** — usa cambios regulatorios como experimentos naturales cuando no se puede aleatorizar.
+- **Validación** — tendencias paralelas, pruebas de placebo y análisis de sensibilidad.
 
+### Análisis estadístico y econométrico
+- **Datos de panel** — efectos fijos y aleatorios sobre estructuras longitudinales.
+- **Microeconometría** — modelación con datos de individuos, firmas y hogares.
+- **Series de tiempo** — dinámicas temporales y estacionalidad.
+- **Análisis geoespacial y econometría espacial** — datos georreferenciados y dependencia espacial.
+- **Inferencia robusta** — errores estándar agrupados (*clustered*) y robustos.
 
-## ¿Por qué no hay código ni datos aquí?
-Porque son información reservada de las entidades y parte de la investigación sigue en curso. Para ver mi código sobre datos públicos, revisa mis otros repositorios:
-- **potencial-solar-colombia-eda** — NASA POWER API + UPME, pipeline de datos y EDA.
-- **evaluacion-impacto-ifa-amazonia** — evaluación de impacto (DiD) con datos satelitales del IDEAM.
+**Fuentes trabajadas:** microdatos de crédito · RUES · Supersociedades · Formato 345 · PILA · datos satelitales (IDEAM, NASA POWER).
 
-## Autora
+---
+
+## Mi código, en proyectos con datos públicos
+Aquí no hay código porque los datos son reservados. Puedes verlo en:
+- **[potencial-solar-colombia-eda]** — pipeline completo desde API pública (NASA POWER) y base SQLite hasta el análisis exploratorio, cruzando recurso solar con proyectos de la UPME.
+- **[evaluacion-impacto-ifa-amazonia]** — evaluación de impacto (DiD) de un programa de pagos por servicios ambientales sobre la deforestación, con datos satelitales del IDEAM.
+
+## Contacto
 Diana García — Economista (Universidad Nacional de Colombia) · [LinkedIn](https://linkedin.com/in/diana-sirley-garcia-quintero-economia)
