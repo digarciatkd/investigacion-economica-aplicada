@@ -76,7 +76,7 @@ Responder con rigor si una intervención, política o cambio produjo un efecto r
 - **Análisis geoespacial y econometría espacial** — datos georreferenciados y dependencia espacial.
 - **Inferencia robusta** — errores estándar agrupados (*clustered*) y robustos.
 
-**Fuentes trabajadas:** microdatos de crédito · buró de creditos · RUES · Supersociedades · Formato 345 · PILA · datos satelitales (IDEAM, NASA POWER).
+**Fuentes trabajadas:** microdatos de crédito · buró de creditos · RUES · Supersociedades · Formato 345 · PILA · datos satelitales (IDEAM, NASA POWER) · DANE
 
 ---
 ## Mi código, en proyectos con datos públicos
