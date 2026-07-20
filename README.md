@@ -1,6 +1,6 @@
 # Datos, evidencia y decisiones — perfil de trabajo
 
-**Analista de datos · Economista cuantitativa.** Convierto grandes volúmenes de datos administrativos y financieros en información que sustenta decisiones: Construyo pipelines, tableros y análisis de impacto.
+**Economista cuantitativa · Analista de datos.** Convierto grandes volúmenes de datos administrativos y financieros en información que sustenta decisiones: Construyo pipelines, tableros y análisis de impacto.
 
 ---
 
