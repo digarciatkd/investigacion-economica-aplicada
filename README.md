@@ -2,7 +2,6 @@
 
 **Analista de datos · Economista cuantitativa.** Convierto grandes volúmenes de datos administrativos y financieros en información que sustenta decisiones: Construyo pipelines, tableros y análisis de impacto.
 
-Mi experiencia viene del **Banco de la República** y de un proyecto **BID / Universidad EAFIT**, trabajando con bases de cobertura nacional, en entornos donde la calidad del dato y la reproducibilidad no son opcionales.
 ---
 
 ## Qué hago
