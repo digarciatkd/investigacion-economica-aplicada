@@ -79,12 +79,10 @@ Responder con rigor si una intervención, política o cambio produjo un efecto r
 **Fuentes trabajadas:** microdatos de crédito · RUES · Supersociedades · Formato 345 · PILA · datos satelitales (IDEAM, NASA POWER).
 
 ---
-
-
 ## Mi código, en proyectos con datos públicos
 Aquí no hay código porque los datos son reservados. Puedes verlo en:
-- **[potencial-solar-colombia-eda]** — pipeline completo desde API pública (NASA POWER) y base SQLite hasta el análisis exploratorio, cruzando recurso solar con proyectos de la UPME.
-- **[evaluacion-impacto-ifa-amazonia]** — evaluación de impacto (DiD) de un programa de pagos por servicios ambientales sobre la deforestación, con datos satelitales del IDEAM.
+- **[potencial-solar-colombia-eda](https://github.com/digarciatkd/potencial-solar-colombia-eda)** — pipeline completo desde API pública (NASA POWER) y base SQLite hasta el análisis exploratorio, cruzando recurso solar con proyectos de la UPME.
+- **[evaluacion-impacto-ifa-amazonia](https://github.com/digarciatkd/evaluacion-impacto-ifa-amazonia)** — evaluación de impacto (DiD) de un programa de pagos por servicios ambientales sobre la deforestación, con datos satelitales del IDEAM.
 
 ## Contacto
 Diana García — Economista (Universidad Nacional de Colombia) · [LinkedIn](https://linkedin.com/in/diana-sirley-garcia-quintero-economia)
