@@ -45,6 +45,10 @@ Proyecto con el **BID** y la **Banca de las Oportunidades**. Realizo la ingesta,
 
 ---
 
+> *Los microdatos de estos proyectos son reservados y parte de la investigación aún no se publica y pertenece a sus autores. Por eso este repositorio documenta competencias y herramientas, sin datos, diseños ni resultados específicos.*
+
+---
+
 ## Stack técnico
 
 **Lenguajes y herramientas**
@@ -75,6 +79,7 @@ Responder con rigor si una intervención, política o cambio produjo un efecto r
 **Fuentes trabajadas:** microdatos de crédito · RUES · Supersociedades · Formato 345 · PILA · datos satelitales (IDEAM, NASA POWER).
 
 ---
+
 
 ## Mi código, en proyectos con datos públicos
 Aquí no hay código porque los datos son reservados. Puedes verlo en:
